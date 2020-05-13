@@ -44,14 +44,11 @@
     "block.storagedrawers.compacting_drawers_3": "壓縮抽屜",
     "block.storagedrawers.controller": "抽屜管理器",
     "block.storagedrawers.controller_slave": "管理器傳動方塊",
-
     "config.waila.plugin_storagedrawers": "儲物抽屜",
     "config.waila.plugin_storagedrawers.display.content": "插槽內容",
     "config.waila.plugin_storagedrawers.display.stacklimit": "堆疊限制",
     "config.waila.plugin_storagedrawers.display.status": "升級狀態",
-
     "container.storagedrawers.upgrades": "升級組件",
-
     "item.storagedrawers.storage_upgrade.desc": "將儲存量增加%d倍",
     "item.storagedrawers.obsidian_storage_upgrade": "抽屜容量升級 (I)",
     "item.storagedrawers.iron_storage_upgrade": "抽屜容量升級 (II)",
@@ -85,12 +82,9 @@
     "item.storagedrawers.quantify_key.desc": "隱藏或顯示抽屜內儲存的物品的數量",
     "item.storagedrawers.personal_key": "私人鑰匙",
     "item.storagedrawers.personal_key.desc": "防止其他玩家使用抽屜",
-
     "itemGroup.storagedrawers": "儲物抽屜",
-
     "message.storagedrawers.cannot_add_upgrade": "這個升級無法安裝到此抽屜",
     "message.storagedrawers.max_upgrades": "這個抽屜已無法接受更多的升級。",
-
     "tooltip.storagedrawers.drawers.capacity": "每個抽屜格可以儲存%d組同類物品。",
     "tooltip.storagedrawers.drawers.sealed": "內容物已經封存，可供搬運。",
     "tooltip.storagedrawers.waila.empty": "<空>",
