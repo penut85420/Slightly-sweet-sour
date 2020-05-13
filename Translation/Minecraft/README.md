@@ -1,4 +1,4 @@
-# Explanation
+# Explanation:lemon:
 
 Here are some mods translated by Slightly Sweet Sour.
 Because it is unauthorized, it will not be second-time-released here.
@@ -28,4 +28,4 @@ If it isn't(Sort by possibility):
 4. You accidentally did something wrong
 5. The sun comes out from the west
 
-If you have other questions, you can ask me right away!But I may not reply to you immediately.
+If you have other questions, you can ask me right away!
