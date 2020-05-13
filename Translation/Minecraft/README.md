@@ -3,13 +3,13 @@
 Here are some mods translated by Slightly Sweet Sour.
 Because it is unauthorized, it will not be second-time-released here.
 
-#### notice:
-  - Use without violating laws and social morals.
-  - Can be used and shared friendly
-  - Translation may be incorrect and incomplete.
-  - Only the traditional Chinese translation on this page is translated by myself, and some of the translations are from simplified Chinese.
+#### Notice:
+- Use without violating laws and social morals.
+- Can be used and shared friendly.
+- Translation may be incorrect and incomplete.
+- Only the traditional Chinese translation on this page is translated by myself, and some of the translations are from simplified Chinese.
 
-Any translation suggestions are reception.Have fun! :)
+Any translation suggestions are reception. Have fun! :)
 
 ##### How to use it?
 
@@ -21,7 +21,7 @@ How do I use these translation files?
 
 Now it should be done when you enter the game.
 
-If it isn't(Sort by possibility):
+If it isn't (Sort by possibility):
 1. The version is wrong
 2. There is a problem with the file
 3. A magical force causes errors
