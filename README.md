@@ -20,3 +20,6 @@ I like to do my best to help people but may not have any foundation.
 * Accompany - Can write letters or play games together?Hope you can be happy :)
 * Or any you want me to help
 >Honoured for your dispatch
+
+
+For more information here is my [WIKI](https://zh.wikipedia.org/wiki/User:%E5%BE%AE%E7%94%9C%E7%9A%84%E9%85%B8)(WIP)
